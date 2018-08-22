@@ -1,0 +1,14 @@
+.DS_Store
+*.db
+*.csv
+*.hdf5
+*.pyc
+.ipynb_checkpoints
+.dropbox.attr
+backup/
+.backup/
+sandbox/
+.sandbox/
+__pycache__/
+docs/
+

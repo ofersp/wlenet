@@ -1,0 +1,12 @@
+{
+"cosmos_path":               "~/datasets/wlenet/cosmos",
+"simulation_path":           "~/datasets/wlenet/simulation",
+"simulation_configs_path":   "~/datasets/wlenet/simulation_configs", 
+"trained_models_path":       "~/datasets/wlenet/models",
+"calibration_path":          "~/datasets/wlenet/calibration",
+"estimation_path":           "~/datasets/wlenet/estimation",
+"clash_path":                "~/datasets/wlenet/clusters/clash",
+"figure_path":               "~/datasets/wlenet/figures",
+"cache_path":                "~/datasets/wlenet/cache",
+"sextractor_path":           "~/.local/bin/sex"
+}
